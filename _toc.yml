@@ -1,4 +1,4 @@
-format: jp-book
+format: jb-book
 root: index.md
 chapters:
   - file: project_1.ipynb
