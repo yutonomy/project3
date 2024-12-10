@@ -1,4 +1,4 @@
-name: computing-in-context
+name: base
 channels:
   - default
   - conda-forge
